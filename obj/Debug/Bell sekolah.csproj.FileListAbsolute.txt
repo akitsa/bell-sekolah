@@ -1,0 +1,8 @@
+D:\tugas kuliah\Bell kelas\Bell sekolah\bin\Debug\Bell sekolah.exe.config
+D:\tugas kuliah\Bell kelas\Bell sekolah\bin\Debug\Bell sekolah.exe
+D:\tugas kuliah\Bell kelas\Bell sekolah\bin\Debug\Bell sekolah.pdb
+D:\tugas kuliah\Bell kelas\Bell sekolah\obj\Debug\Bell sekolah.csproj.AssemblyReference.cache
+D:\tugas kuliah\Bell kelas\Bell sekolah\obj\Debug\Bell sekolah.csproj.SuggestedBindingRedirects.cache
+D:\tugas kuliah\Bell kelas\Bell sekolah\obj\Debug\Bell sekolah.csproj.CoreCompileInputs.cache
+D:\tugas kuliah\Bell kelas\Bell sekolah\obj\Debug\Bell sekolah.exe
+D:\tugas kuliah\Bell kelas\Bell sekolah\obj\Debug\Bell sekolah.pdb
